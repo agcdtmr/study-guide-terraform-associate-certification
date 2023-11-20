@@ -4,6 +4,7 @@ Welcome to the comprehensive study guide repository designed to help you prepare
 
 ## About the exam
 
+- [Terraform Associate (003) Details](https://developer.hashicorp.com/certifications/infrastructure-automation#terraform-associate-(003)-details)
 - [Exam Overview](https://www.hashicorp.com/certification/terraform-associate)
 
 ## Learning Resources

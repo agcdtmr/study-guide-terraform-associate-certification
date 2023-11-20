@@ -37,7 +37,7 @@ In essence, using active recall tools like Anki or Quizlet can be an efficient a
 Here's a collection of [Terraform flashcards](https://www.notion.so/agcdtmr/ANKI-Terraform-7257eec449b94869877355979b072bf2?pvs=4)
 
 
-## Notes
+## Notes & Tips
 
 - While this repository aims to assist in exam preparation, it's essential to complement your study with practical experience and a thorough understanding of Terraform concepts.
 - Practice Tests and Quizzes: Sharpen your knowledge and assess your readiness with a collection of practice tests and quizzes resembling the format and difficulty level of the actual certification exam.

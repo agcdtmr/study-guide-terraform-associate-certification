@@ -34,7 +34,7 @@ For passing the Terraform Associate Certification (003), using active recall met
 In essence, using active recall tools like Anki or Quizlet can be an efficient and effective method to reinforce Terraform concepts, commands, and configurations necessary for passing the certification exam.
 
 
-Here's a collection of [Terraform flashcards](https://www.notion.so/agcdtmr/ANKI-Terraform-7257eec449b94869877355979b072bf2?pvs=4)
+Here's a collection of [Terraform flashcards](https://www.notion.so/agcdtmr/ANKI-Terraform-7257eec449b94869877355979b072bf2?pvs=4). If the items in the list don't align with your approach to learning, I encourage you to create your own.
 
 
 ## Notes & Tips

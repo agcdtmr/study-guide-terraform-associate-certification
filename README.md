@@ -14,6 +14,7 @@ Welcome to the comprehensive study guide repository designed to help you prepare
 - [Sample questions](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-questions)
 - [Exam review](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-review-003)
 - [Associate Tutorial List](https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials-003)
+- [Terraform Intro](https://developer.hashicorp.com/terraform/intro)
 - [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials)
 
 ## Active Recalling

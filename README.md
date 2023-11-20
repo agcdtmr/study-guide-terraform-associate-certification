@@ -2,9 +2,12 @@
 
 Welcome to the comprehensive study guide repository designed to help you prepare for the Terraform Associate Certification (Exam Code: 003). This repository is curated to provide aspiring candidates with a structured learning path, resources, practice tests, and hands-on exercises to confidently tackle the Terraform Associate exam.
 
+## About the exam
+
+- [Exam Overview](https://www.hashicorp.com/certification/terraform-associate)
 
 ## Learning Resources
-- [Exam Overview](https://www.hashicorp.com/certification/terraform-associate)
+
 - [Prepare for Terraform Certification](https://developer.hashicorp.com/terraform/tutorials/certification-003)
 - [Study Guide](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-study-003)
 - [Sample questions](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-questions)
